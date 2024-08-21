@@ -7,9 +7,7 @@
 <h3 align="center">A passionate Software developer</h3>
 
 
-- 🔭 I’m currently working on [Webmail](https://mail.one.com/)
-
-- 🌱 I’m currently learning **Golang**
+- 🔭 I’m currently working on [Webmail](https://mail.one.com/) at @one.com
 
 - 📫 How to reach me **jonu.1504@gmail.com**
 
